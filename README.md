@@ -24,7 +24,7 @@ This project performs Exploratory Data Analysis (EDA) on **Sachin Tendulkar's 10
 
 \* Which teams did Sachin score the most centuries against?
 
-\* What batting position brought him the most success?
+\* Which batting position brought him the most success?
 
 \* How did his performance differ across home, away, and neutral venues?
 
